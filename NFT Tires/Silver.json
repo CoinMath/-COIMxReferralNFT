@@ -1,0 +1,11 @@
+{
+  "name": "COIMx Silver NFT",
+  "description": "This is the Silver-tier referral NFT from COIMx.",
+  "image": "https://raw.githubusercontent.com/CoinMath/-COIMxReferralNFT/refs/heads/main/Silver.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Silver"
+    }
+  ]
+}

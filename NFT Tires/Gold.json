@@ -1,0 +1,11 @@
+{
+  "name": "COIMx Gold NFT",
+  "description": "This is the Gold-tier referral NFT from COIMx.",
+  "image": "https://raw.githubusercontent.com/CoinMath/-COIMxReferralNFT/refs/heads/main/Gold.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Gold"
+    }
+  ]
+}
